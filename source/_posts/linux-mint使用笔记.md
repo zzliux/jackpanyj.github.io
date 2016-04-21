@@ -16,3 +16,9 @@ tags: linux
   + 下载zsh： `sudo apt-get install zsh`
   + 下载安装oh-my-zsh： `sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
   + 改变默认bash: `chsh -s /bin/zsh`
+3. 使用nvm安装node
+  + 安装nvm： `curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.31.0/install.sh | bash`
+  + 使nvm生效： `. ~/.nvm/nvm.sh`
+  + 列出node的版本： `nvm ls-remote`
+  + 安装node： `nvm install v5.10.1`
+  + 设置为默认的版本： `nvm alias default v5.10.1`
