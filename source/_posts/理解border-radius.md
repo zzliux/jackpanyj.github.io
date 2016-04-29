@@ -20,7 +20,7 @@ tags: css
     border-radius: 50% / 60% 60% 40% 40%
   }
 ```
-[看demo点击这里](jackpanyj.github.io/blog_demo/border-radius/index.html)
+[看demo点击这里](https://jackpanyj.github.io/blog_demo/border-radius/index.html)
 
 解释一下上面的`border-radius`的属性值：
 
