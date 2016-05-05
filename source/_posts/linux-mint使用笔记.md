@@ -5,6 +5,9 @@ tags: linux
 ---
 
 **最近一直在用linux mint 重装了系统，从深度系统迁移到了mint, 记录一下， 一个系统从刚刚安装到我现在状态的过程**
+###  安装后搜不到wifi
+
+解决方案： ``` sudo apt-get install bcmwl-kernel-source ```  然后重启
 
 1. 安装搜狗输入法
   + 去搜狗官网下载deb包
